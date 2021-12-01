@@ -1,4 +1,4 @@
-n21426e90639asdame: content-web
+name: content-web
 
 # This workflow i:s triggered on push to the 'content-web' directory of the  main branch of the repository
 on:
